@@ -1,17 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Devi+Sree+Prasanth+Reddy!;Full-Stack+Web+Developer+%F0%9F%9A%80;Passionate+About+AI+%26+ML+%F0%9F%92%A1" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/DeviSreePrasanth">
-    <img src="https://komarev.com/ghpvc/?username=DeviSreePrasanth&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB¢er=true&vCenter=true&width=600&lines=Hi%2C+I'm+Devi+Sree+Prasanth+Reddy!;Full-Stack+Web+Developer+%F0%9F%9A%80;Passionate+About+AI+%26+ML+%F0%9F%92%A1" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🔥 About Me  
-- 👀 **Interested in:** Full-Stack Web Development, Machine Learning  
+- 👀 **Interested in:** Full-Stack Web Development  
 - 🌱 **Currently Learning:** Backend Development, Machine Learning  
 - 💞️ **Open to Collaborate:** Yes! I love working on exciting projects with like-minded people  
 - 📫 **Reach Me At:**  
@@ -22,23 +16,20 @@
 
 ## 🛠️ Languages - Frameworks - Tools 🛠️  
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://simpleicons.org/icons/html5.svg" width="64" height="64" alt="HTML5" />
+  <img src="https://simpleicons.org/icons/css3.svg" width="64" height="64" alt="CSS3" />
+  <img src="https://simpleicons.org/icons/javascript.svg" width="64" height="64" alt="JavaScript" />
+  <img src="https://simpleicons.org/icons/react.svg" width="64" height="64" alt="React" />
+  <img src="https://simpleicons.org/icons/nodedotjs.svg" width="64" height="64" alt="Node.js" />
+  <img src="https://simpleicons.org/icons/mongodb.svg" width="64" height="64" alt="MongoDB" />
+  <img src="https://simpleicons.org/icons/mysql.svg" width="64" height="64" alt="MySQL" />
   <br>
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://simpleicons.org/icons/github.svg" width="64" height="64" alt="GitHub" />
+  <img src="https://simpleicons.org/icons/git.svg" width="64" height="64" alt="Git" />
+  <img src="https://simpleicons.org/icons/cplusplus.svg" width="64" height="64" alt="C++" />
+  <img src="https://simpleicons.org/icons/python.svg" width="64" height="64" alt="Python" />
+  <img src="https://simpleicons.org/icons/java.svg" width="64" height="64" alt="Java" />
+  <img src="https://simpleicons.org/icons/c.svg" width="64" height="64" alt="C" />
 </p>
 
 ---
