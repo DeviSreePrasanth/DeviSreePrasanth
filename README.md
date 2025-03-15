@@ -23,18 +23,6 @@
 
 ---
 
-## 🏆 Achievements & Stats  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeviSreePrasanth&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeviSreePrasanth&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviSreePrasanth&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
-
----
-
 ## 🎯 Let's Connect!  
 If you’re interested in collaborating on a project or just want to connect, feel free to reach out! 🚀  
 
