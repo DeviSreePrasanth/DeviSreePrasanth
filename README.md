@@ -9,36 +9,38 @@
 I build scalable and high-performance web applications with a passion for **cloud computing**, **AI integrations**, and solving real-world problems through **open-source contributions**.
 
 ---
-
 ## 🔥 About Me  
-- 🎓 **B.Tech Student**  
-- 👀 **Interested in:** Full-Stack Web Development  
-- 🌱 **Currently Learning:** Backend Development, Machine Learning  
-- 💞️ **Open to Collaborate:** Yes! I love working on exciting projects with like-minded people  
-- 📫 **Reach Me At:**  
-  - [LinkedIn](https://www.linkedin.com/in/b-devi-sree-prasanth-reddy-41b540256/)  
-  - 📧 [dsp771122@gmail.com](mailto:dsp771122@gmail.com)
 
----
+🎓 **B.Tech Student** with a strong passion for technology and innovation  
+👨‍💻 **Aspiring Full-Stack Web Developer** focused on building scalable and impactful applications  
+🧠 **Currently Exploring:**  
+- Advanced **Backend Development** with Node.js and Express  
+- **Machine Learning** concepts and real-world applications  
+🤝 **Open to Collaborations:** Always excited to work on challenging and meaningful tech projects with enthusiastic peers  
+🌐 **Let’s Connect:**  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-devi-sree-prasanth-reddy-41b540256/)  
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dsp771122@gmail.com)
 
-## 🏆 Achievements & Certifications
 
-🏆 **Top 50 Finalist - STACKHACK 2.0 by Mercer**  
+---## 🏆 Achievements & Certifications
+
+🏢 **Industrial Internship - RINL (Rashtriya Ispat Nigam Ltd) Steel Plant**  
 🎖️ **AI/ML Virtual Internship - Google & AICTE**  
-🎖️ **AWS Virtual Internship - AICTE**  
-💻 **Solved 300+ Problems on LeetCode**  
+🎖️ **AWS Virtual Internship - AICTE**   
+💻 **Solved 400+ Problems on LeetCode**  
 🏅 **3-Star Coder on CodeChef**
 
----
 
+---
 ## 🚀 Featured Projects
 
 | 🔥 Project | 📝 Description | 🛠️ Tech Stack |
 |------------|----------------|---------------|
 | 🌾 **FarmDirect** | A platform connecting farmers directly with consumers for fresh produce. | MERN Stack |
 | 🍽️ **Restaurant Finder** | Location-based restaurant discovery and filtering. | MERN Stack + Geolocation API |
-
-🔗 **[Explore all my projects](#)**  
+| ⚡ **SwiftServe** | An on-demand home services booking platform with vendor management. | MERN Stack + Tailwind CSS |
+| 📚 **Library Management System** | A digital solution for managing book inventory, borrowers, and transactions. | React, Node.js, Express, MongoDB |
+| 🎬 **Online Movie Ticket Booking** | A responsive application for browsing movies and booking show tickets online. | React, Tailwindcss |
 
 ---
 
@@ -48,15 +50,6 @@ I build scalable and high-performance web applications with a passion for **clou
   <br>
   <img src="https://skillicons.dev/icons?theme=dark&i=mysql,postman,github,git,cpp,python,java,c" alt="Tech Stack Bottom Row" />
 </p>
-
----
-
-## ⚙️ Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -75,6 +68,10 @@ I build scalable and high-performance web applications with a passion for **clou
   <a href="https://www.linkedin.com/in/b-devi-sree-prasanth-reddy-41b540256/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
+  <a href="https://devisreeprasanth.me/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="mailto:dsp771122@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -82,4 +79,5 @@ I build scalable and high-performance web applications with a passion for **clou
 
 ---
 
-<p align="center"><i>💡 "Passionate about crafting solutions, innovating with technology, and making an impact—one project at a time!" 🚀</i></p>
+<p align="center"><i>💡 "Transforming ideas into reality through code, creativity, and continuous learning." 🌟</i></p>
+
