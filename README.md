@@ -5,7 +5,8 @@
 ---
 
 <h3 align="center">🚀 Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
-<p align="center">I build scalable and high-performance web applications with a passion for <b>Cloud Computing</b>, <b>AI Integrations</b>, and solving real-world problems through <b>Open-Source Contributions</b>.</p>
+<p align="center">I create dynamic, scalable web apps while exploring the power of <b>Cloud Computing</b>, advancing in <b>AI & Machine Learning</b>, and contributing to <b>Open-Source Communities</b>.</p>
+
 
 ---
 
