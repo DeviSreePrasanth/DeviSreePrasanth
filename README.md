@@ -3,8 +3,6 @@
 </p>
 
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DeviSreePrasanth&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views Badge"/> </p> <p align="center"> <em>✨ Last updated: <strong>March 28, 2025</strong> ✨</em> </p>
-
 <h3 align="center">🚀 Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 <p align="center">I create dynamic, scalable web apps while exploring the power of <b>Cloud Computing</b>, advancing in <b>AI & Machine Learning</b>, and contributing to <b>Open-Source Communities</b>.</p>
 
@@ -77,6 +75,7 @@
 
 ## 🎯 Let's Connect!
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DeviSreePrasanth&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views Badge"/> </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/b-devi-sree-prasanth-reddy-41b540256/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
