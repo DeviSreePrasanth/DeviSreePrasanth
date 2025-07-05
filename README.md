@@ -41,7 +41,7 @@
   <tr>
     <td width="35%" align="center">
       <a href="https://github.com/yourusername/farmdirect">
-        <img src="./farmdirect.png" width="400" />
+        <img src="./farm.png" width="400" />
       </a>
     </td>
     <td width="65%">
@@ -60,7 +60,7 @@
   <tr>
     <td width="35%" align="center">
       <a href="https://github.com/yourusername/restaurant-finder">
-        <img src="./restaurantfinder.png" width="400" />
+        <img src="./ress.png" width="400" />
       </a>
     </td>
     <td width="65%">
@@ -100,7 +100,7 @@
   <tr>
     <td width="35%" align="center">
       <a href="https://github.com/yourusername/library-management">
-        <img src="./library.png" width="400" />
+        <img src="./lms.png" width="400" />
       </a>
     </td>
     <td width="65%">
@@ -119,7 +119,7 @@
   <tr>
     <td width="35%" align="center">
       <a href="https://github.com/yourusername/movie-ticket-app">
-        <img src="./movieticket.png" width="400" />
+        <img src="./movie.png" width="400" />
       </a>
     </td>
     <td width="65%">
