@@ -56,25 +56,6 @@
     </td>
   </tr>
 
-  <!-- Project 2: Restaurant Finder -->
-  <tr>
-    <td width="35%" align="center">
-      <a href="https://github.com/yourusername/restaurant-finder">
-        <img src="./ress.png" width="400" />
-      </a>
-    </td>
-    <td width="65%">
-      <h3><a href="https://github.com/yourusername/restaurant-finder">Restaurant Finder</a></h3>
-      <p>Helps users discover nearby restaurants based on their current location with filters for cuisine, price range, and ratings. Integrated with the Geolocation API and optimized for responsive UI and smooth user experience.</p>
-      <div>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Geolocation_API-blue?style=flat-square" />
-      </div>
-    </td>
-  </tr>
 
   <!-- Project 3: SwiftServe -->
   <tr>
@@ -95,26 +76,7 @@
       </div>
     </td>
   </tr>
-
-  <!-- Project 4: Library Management System -->
-  <tr>
-    <td width="35%" align="center">
-      <a href="https://github.com/yourusername/library-management">
-        <img src="./lms.png" width="400" />
-      </a>
-    </td>
-    <td width="65%">
-      <h3><a href="https://github.com/yourusername/library-management">Library Management System</a></h3>
-      <p>Digital system for managing library operations including book inventory, member registration, issue/return tracking, and overdue alerts. Designed to streamline library workflows and reduce manual effort.</p>
-      <div>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      </div>
-    </td>
-  </tr>
-
+  
   <!-- Project 5: Online Movie Ticket Booking -->
   <tr>
     <td width="35%" align="center">
@@ -137,10 +99,14 @@
 
 ## 🛠️ Tech Stack & Tools
 
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&i=html,css,javascript,react,nodejs,express,mongodb" alt="Tech Stack Row 1" />
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?theme=dark&i=html,css,javascript,react,tailwind,nodejs,express,mongodb" alt="Tech Stack Row 1" />
   <br/>
-  <img src="https://skillicons.dev/icons?theme=dark&i=mysql,postman,github,git,cpp,python,java,c" alt="Tech Stack Row 2" />
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?theme=dark&i=mysql,git,github,vscode,figma,postman,python,java,cpp,c" alt="Tech Stack Row 2" />
 </p>
 
 ---
@@ -155,11 +121,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviSreePrasanth&layout=compact&theme=radical" height="180px"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeviSreePrasanth&theme=radical" />
+  <img src="https://raw.githubusercontent.com/DeviSreePrasanth/DeviSreePrasanth/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 ## 🎯 Let's Connect!
