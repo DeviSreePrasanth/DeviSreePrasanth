@@ -36,13 +36,102 @@
 
 ## 🚀 Featured Projects
 
-| 🔥 Project | 📝 Description | 🛠️ Tech Stack |
-|-----------|----------------|----------------|
-| 🌾 **FarmDirect** | Platform connecting farmers directly with consumers for fresh produce. | MERN Stack |
-| 🍽️ **Restaurant Finder** | Location-based restaurant discovery and filtering. | MERN Stack + Geolocation API |
-| ⚡ **SwiftServe** | On-demand home services booking platform with vendor management. | MERN Stack + Tailwind CSS |
-| 📚 **Library Management System** | Manages book inventory, borrowers, and transactions digitally. | React, Node.js, Express, MongoDB |
-| 🎬 **Online Movie Ticket Booking** | Responsive app for browsing movies and booking show tickets. | React, Tailwind CSS |
+<table width="100%">
+  <!-- Project 1: FarmDirect -->
+  <tr>
+    <td width="35%" align="center">
+      <a href="https://github.com/yourusername/farmdirect">
+        <img src="./farmdirect.png" width="400" />
+      </a>
+    </td>
+    <td width="65%">
+      <h3><a href="https://github.com/yourusername/farmdirect">FarmDirect</a></h3>
+      <p>Platform connecting farmers directly with consumers for fresh produce.</p>
+      <div>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+
+  <!-- Project 2: Restaurant Finder -->
+  <tr>
+    <td width="35%" align="center">
+      <a href="https://github.com/yourusername/restaurant-finder">
+        <img src="./restaurantfinder.png" width="400" />
+      </a>
+    </td>
+    <td width="65%">
+      <h3><a href="https://github.com/yourusername/restaurant-finder">Restaurant Finder</a></h3>
+      <p>Location-based restaurant discovery and filtering.</p>
+      <div>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Geolocation_API-blue?style=flat-square" />
+      </div>
+    </td>
+  </tr>
+
+  <!-- Project 3: SwiftServe -->
+  <tr>
+    <td width="35%" align="center">
+      <a href="https://github.com/yourusername/swiftserve">
+        <img src="./swiftserve.png" width="400" />
+      </a>
+    </td>
+    <td width="65%">
+      <h3><a href="https://github.com/yourusername/swiftserve">SwiftServe</a></h3>
+      <p>On-demand home services booking platform with vendor management.</p>
+      <div>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+
+  <!-- Project 4: Library Management System -->
+  <tr>
+    <td width="35%" align="center">
+      <a href="https://github.com/yourusername/library-management">
+        <img src="./library.png" width="400" />
+      </a>
+    </td>
+    <td width="65%">
+      <h3><a href="https://github.com/yourusername/library-management">Library Management System</a></h3>
+      <p>Manages book inventory, borrowers, and transactions digitally.</p>
+      <div>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+
+  <!-- Project 5: Online Movie Ticket Booking -->
+  <tr>
+    <td width="35%" align="center">
+      <a href="https://github.com/yourusername/movie-ticket-app">
+        <img src="./movieticket.png" width="400" />
+      </a>
+    </td>
+    <td width="65%">
+      <h3><a href="https://github.com/yourusername/movie-ticket-app">Online Movie Ticket Booking</a></h3>
+      <p>Responsive app for browsing movies and booking show tickets.</p>
+      <div>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -60,11 +149,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeviSreePrasanth&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviSreePrasanth&layout=compact&theme=radical" height="180px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeviSreePrasanth&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeviSreePrasanth&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviSreePrasanth&layout=compact&theme=radical" height="180px"/>
 </p>
 
 <p align="center">
