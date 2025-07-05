@@ -113,12 +113,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeviSreePrasanth&show_icons=true&theme=radical" height="180px"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeviSreePrasanth&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeviSreePrasanth&theme=radical" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviSreePrasanth&layout=compact&theme=radical" height="180px"/>
 </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/DeviSreePrasanth/DeviSreePrasanth/output/github-contribution-grid-snake.svg" />
 </p>
