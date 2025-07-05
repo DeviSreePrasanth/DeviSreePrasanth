@@ -36,7 +36,7 @@
 
 ## 🚀 Featured Projects
 
-<table width="100%">
+<table width="100%" cellspacing="20">
   <!-- Project 1: FarmDirect -->
   <tr>
     <td width="35%" align="center">
@@ -46,7 +46,7 @@
     </td>
     <td width="65%">
       <h3><a href="https://github.com/yourusername/farmdirect">FarmDirect</a></h3>
-      <p>Platform connecting farmers directly with consumers for fresh produce.</p>
+      <p>An end-to-end platform enabling farmers to sell fresh produce directly to consumers without middlemen, ensuring fair pricing and transparency. Includes user authentication, product listings, and order management.</p>
       <div>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -65,7 +65,7 @@
     </td>
     <td width="65%">
       <h3><a href="https://github.com/yourusername/restaurant-finder">Restaurant Finder</a></h3>
-      <p>Location-based restaurant discovery and filtering.</p>
+      <p>Helps users discover nearby restaurants based on their current location with filters for cuisine, price range, and ratings. Integrated with the Geolocation API and optimized for responsive UI and smooth user experience.</p>
       <div>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -85,7 +85,7 @@
     </td>
     <td width="65%">
       <h3><a href="https://github.com/yourusername/swiftserve">SwiftServe</a></h3>
-      <p>On-demand home services booking platform with vendor management.</p>
+      <p>Online marketplace for booking home services such as plumbing, cleaning, and repairs. Features real-time booking, vendor dashboards, and dynamic status updates. Built with a sleek UI using Tailwind CSS.</p>
       <div>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -105,7 +105,7 @@
     </td>
     <td width="65%">
       <h3><a href="https://github.com/yourusername/library-management">Library Management System</a></h3>
-      <p>Manages book inventory, borrowers, and transactions digitally.</p>
+      <p>Digital system for managing library operations including book inventory, member registration, issue/return tracking, and overdue alerts. Designed to streamline library workflows and reduce manual effort.</p>
       <div>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -124,7 +124,7 @@
     </td>
     <td width="65%">
       <h3><a href="https://github.com/yourusername/movie-ticket-app">Online Movie Ticket Booking</a></h3>
-      <p>Responsive app for browsing movies and booking show tickets.</p>
+      <p>A modern responsive web app for browsing movies, checking schedules, and booking show tickets. Offers user-friendly UI, filter by genre or theater, and a smooth checkout experience using Tailwind CSS.</p>
       <div>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
