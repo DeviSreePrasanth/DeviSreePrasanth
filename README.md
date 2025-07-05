@@ -99,8 +99,6 @@
 
 ## 🛠️ Tech Stack & Tools
 
-## 🛠️ Tech Stack
-
 <p align="center">
   <!-- Row 1 -->
   <img src="https://skillicons.dev/icons?theme=dark&i=html,css,javascript,react,tailwind,nodejs,express,mongodb" alt="Tech Stack Row 1" />
