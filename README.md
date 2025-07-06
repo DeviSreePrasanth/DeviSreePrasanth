@@ -40,12 +40,12 @@
   <!-- Project 1: FarmDirect -->
   <tr>
     <td width="35%" align="center">
-      <a href="https://github.com/yourusername/farmdirect">
+      <a href="https://farmdirect-beta.vercel.app/">
         <img src="./farm.png" width="400" />
       </a>
     </td>
     <td width="65%">
-      <h3><a href="https://github.com/yourusername/farmdirect">FarmDirect</a></h3>
+      <h3><a href="https://github.com/DeviSreePrasanth/Farm-Direct">FarmDirect</a></h3>
       <p>An end-to-end platform enabling farmers to sell fresh produce directly to consumers without middlemen, ensuring fair pricing and transparency. Includes user authentication, product listings, and order management.</p>
       <div>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -60,12 +60,12 @@
   <!-- Project 3: SwiftServe -->
   <tr>
     <td width="35%" align="center">
-      <a href="https://github.com/yourusername/swiftserve">
+      <a href="https://swiftserve1.vercel.app/">
         <img src="./swiftserve.png" width="400" />
       </a>
     </td>
     <td width="65%">
-      <h3><a href="https://github.com/yourusername/swiftserve">SwiftServe</a></h3>
+      <h3><a href="https://github.com/DeviSreePrasanth/User">SwiftServe</a></h3>
       <p>Online marketplace for booking home services such as plumbing, cleaning, and repairs. Features real-time booking, vendor dashboards, and dynamic status updates. Built with a sleek UI using Tailwind CSS.</p>
       <div>
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -80,12 +80,12 @@
   <!-- Project 5: Online Movie Ticket Booking -->
   <tr>
     <td width="35%" align="center">
-      <a href="https://github.com/yourusername/movie-ticket-app">
+      <a href="https://movie-omega-five.vercel.app/">
         <img src="./movie.png" width="400" />
       </a>
     </td>
     <td width="65%">
-      <h3><a href="https://github.com/yourusername/movie-ticket-app">Online Movie Ticket Booking</a></h3>
+      <h3><a href="https://github.com/DeviSreePrasanth/Movie_Ticket_Booking">Online Movie Ticket Booking</a></h3>
       <p>A modern responsive web app for browsing movies, checking schedules, and booking show tickets. Offers user-friendly UI, filter by genre or theater, and a smooth checkout experience using Tailwind CSS.</p>
       <div>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
