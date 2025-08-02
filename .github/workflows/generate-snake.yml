@@ -2,7 +2,9 @@ name: 🐍 Generate Snake Contribution Grid
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight UTC
+    # Runs every day at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
   push:
     branches:
       - main
@@ -11,18 +13,26 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name:  Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: DeviSreePrasanth
+          # Your GitHub username
+          github_user_name: ${{ github.repository_owner }}
+          
+          # A list of comma-separated output SVG files
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark-dimmed
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/ocean.svg?palette=ocean&color_snake=orange
 
-      - name: Push the SVG to the output branch
+      - name: Push the generated SVG to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
         env:
+          # A GitHub personal access token is required to push to the output branch
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
