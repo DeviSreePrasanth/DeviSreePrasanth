@@ -1,42 +1,57 @@
-name: GitHub Snake Game
+# Name of the GitHub Actions workflow
+name: Generate Contribution Snake
 
 on:
-  # Schedule the workflow to run daily at midnight UTC
+  # 1. Run automatically every 24 hours
   schedule:
     - cron: "0 0 * * *"
-  # Allow manual triggering of the workflow
+
+  # 2. Allow manual runs from the Actions tab
   workflow_dispatch:
-  # Trigger the workflow on pushes to the main branch
+
+  # 3. Run on pushes to the main branch
   push:
     branches:
       - main
+
 jobs:
   generate:
+    # Use the latest version of Ubuntu
     runs-on: ubuntu-latest
+    
+    # Set a timeout to prevent the job from running indefinitely
     timeout-minutes: 10
+
     steps:
-      # Step 1: Checkout the repository
+      # Step 1: Check out the repository so the workflow can access it
       - name: Checkout Repository
         uses: actions/checkout@v3
-      # Step 2: Generate the snake animations
-      - name: Generate GitHub Contributions Snake Animations
+
+      # Step 2: Generate the snake animation SVG and GIF files
+      - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          # GitHub username to generate the animation for
+          # Your GitHub username. ${{ github.repository_owner }} makes it dynamic.
           github_user_name: ${{ github.repository_owner }}
-          # Define the output files and their configurations
+          
+          # A list of output files, each with different configurations
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      # Step 3: Deploy the generated files to the 'output' branch
-      - name: Deploy to Output Branch
+
+      # Step 3: Push the generated files to the 'output' branch
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
+          # A token is required to push to the branch
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          
+          # The branch to which the files will be pushed
           publish_branch: output
-          # Optionally, you can set a custom commit message
-          commit_message: "Update snake animation [skip ci]"
+          
+          # The directory that contains the files to be pushed
+          publish_dir: ./dist
+          
+          # A custom commit message for the push
+          commit_message: "chore: update contribution snake animation"
