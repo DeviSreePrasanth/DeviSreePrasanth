@@ -28,17 +28,6 @@
   <br/>
   <img src="https://skillicons.dev/icons?theme=dark&i=mysql,git,github,vscode,figma,postman,python,java,cpp,c" alt="Tech Stack Row 2" />
 </p>
-
----
-
-### 🏆 Achievements & Certifications
-
--   🏢 **Industrial Internship** – RINL (Rashtriya Ispat Nigam Ltd) Steel Plant
--   🎖️ **AI/ML Virtual Internship** – Google & AICTE
--   🎖️ **AWS Virtual Internship** – AICTE
--   💻 **400+ Problems Solved** on LeetCode
--   🏅 **3-Star Coder** on CodeChef
-
 ---
 
 ### 🚀 Featured Projects
@@ -109,10 +98,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviSreePrasanth&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB&text_color=c9d1d9&bg_color=161b22" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DeviSreePrasanth/DeviSreePrasanth/output/github-contribution-grid-snake.svg" />
 </p>
 ---
 
