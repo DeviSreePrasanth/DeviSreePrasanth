@@ -92,13 +92,23 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeviSreePrasanth&show_icons=true&theme=tokyonight&hide_border=true&icon_color=61DAFB&title_color=61DAFB&text_color=c9d1d9&bg_color=161b22" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeviSreePrasanth&theme=tokyonight&hide_border=true&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&background=161b22" width="48%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DeviSreePrasanth&show_icons=true&theme=tokyonight&hide_border=true&icon_color=61DAFB&title_color=61DAFB&text_color=c9d1d9&bg_color=%23161b22&count_private=true&cache_seconds=1800"
+    width="48%"
+  />
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=DeviSreePrasanth&theme=tokyonight&hide_border=true&background=%23161b22&ring=61DAFB&fire=61DAFB&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"
+    width="48%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviSreePrasanth&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB&text_color=c9d1d9&bg_color=161b22" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviSreePrasanth&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB&text_color=c9d1d9&bg_color=%23161b22&cache_seconds=1800"
+  />
 </p>
+
 ---
 
 ### 🌐 Let's Connect!
