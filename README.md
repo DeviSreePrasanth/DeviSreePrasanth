@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB¢er=true&vCenter=true&width=700&lines=Hi%2C+I'm+Devi+Sree+Prasanth+Reddy!;Full-Stack+Web+Developer+%F0%9F%9A%80;Passionate+About+AI+%26+ML+%F0%9F%92%A1" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Devi+Sree+Prasanth+Reddy!;Full-Stack+Web+Developer+%F0%9F%9A%80;Passionate+About+AI+%26+ML+%F0%9F%92%A1" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -28,6 +28,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?theme=dark&i=mysql,git,github,vscode,figma,postman,python,java,cpp,c" alt="Tech Stack Row 2" />
 </p>
+
 ---
 
 ### 🚀 Featured Projects
@@ -37,7 +38,7 @@
   <tr>
     <td width="35%" align="center">
       <a href="https://farmdirect-beta.vercel.app/">
-        <img src="./farm.png" width="400" alt="FarmDirect Project Screenshot"/>
+        <img src="https://raw.githubusercontent.com/DeviSreePrasanth/DeviSreePrasanth/main/farm.png" width="400" alt="FarmDirect Project Screenshot" onerror="this.src='https://via.placeholder.com/400x200?text=FarmDirect+Project'"/>
       </a>
     </td>
     <td width="65%">
@@ -55,7 +56,7 @@
   <tr>
     <td width="35%" align="center">
       <a href="https://swiftserve1.vercel.app/">
-        <img src="./swiftserve.png" width="400" alt="SwiftServe Project Screenshot"/>
+        <img src="https://raw.githubusercontent.com/DeviSreePrasanth/DeviSreePrasanth/main/swiftserve.png" width="400" alt="SwiftServe Project Screenshot" onerror="this.src='https://via.placeholder.com/400x200?text=SwiftServe+Project'"/>
       </a>
     </td>
     <td width="65%">
@@ -74,7 +75,7 @@
   <tr>
     <td width="35%" align="center">
       <a href="https://movie-omega-five.vercel.app/">
-        <img src="./movie.png" width="400" alt="Online Movie Ticket Booking Project Screenshot"/>
+        <img src="https://raw.githubusercontent.com/DeviSreePrasanth/DeviSreePrasanth/main/movie.png" width="400" alt="Online Movie Ticket Booking Project Screenshot" onerror="this.src='https://via.placeholder.com/400x200?text=Movie+Booking+Project'"/>
       </a>
     </td>
     <td width="65%">
@@ -92,22 +93,24 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=DeviSreePrasanth&show_icons=true&theme=tokyonight&hide_border=true&icon_color=61DAFB&title_color=61DAFB&text_color=c9d1d9&bg_color=%23161b22&count_private=true&cache_seconds=1800"
+  <!-- <img
+    src="https://github-readme-stats.vercel.app/api?username=DeviSreePrasanth&show_icons=true&theme=tokyonight&hide_border=true&title_color=61DAFB&icon_color=61DAFB&text_color=c9d1d9&bg_color=161b22&count_private=true"
     width="48%"
-  />
-
+    alt="Devi Sree Prasanth GitHub Stats"
+  /> -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=DeviSreePrasanth&theme=tokyonight&hide_border=true&background=%23161b22&ring=61DAFB&fire=61DAFB&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DeviSreePrasanth&theme=tokyonight&hide_border=true&background=161b22&ring=61DAFB&fire=61DAFB&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"
     width="48%"
+    alt="GitHub Streak"
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviSreePrasanth&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB&text_color=c9d1d9&bg_color=%23161b22&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviSreePrasanth&layout=compact&theme=tokyonight&hide_border=true&title_color=61DAFB&text_color=c9d1d9&bg_color=161b22"
+    alt="Top Languages"
   />
-</p>
+</p> -->
 
 ---
 
