@@ -124,7 +124,7 @@
   <a href="https://www.linkedin.com/in/b-devi-sree-prasanth-reddy-41b540256/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://devisreeprasanth.me/">
+  <a href="https://portfolio-git-main-dsps-projects-45541cc1.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="mailto:dsp771122@gmail.com">
